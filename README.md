@@ -14,7 +14,10 @@ I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore 
 - C
 - Python (_for AI things_)
 - SQL
-- Flutter 
+- Flutter
+- HTML + CSS
+- NodeJS
+- PHP
 - _more coming soon_
 
 <!--
