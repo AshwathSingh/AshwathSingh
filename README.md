@@ -1,6 +1,4 @@
-## 👋🏼 Hi There
-
-Thank You for coming onto my profile! 
+## 👋🏼 Hey There!
 
 I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore year) at Purdue University, West Lafayette, where I major in Computer Science + Electives in Economics and Philosophy! 
 
