@@ -1,4 +1,25 @@
-## Hi there 👋
+## 👋🏼 Hi There
+
+Thank You for coming onto my profile! 
+
+I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore year) at Purdue University, West Lafayette, where I major in Computer Science + Electives in Economics and Philosophy! 
+
+## 🧠 My Interests
+- AI Workflows
+- Creating products that will help people
+- Content-Creation on [YouTube](https://www.youtube.com/@ashwathsingh)
+- Photography (_especially architecture, landscapes and cars_)
+
+## 🤟🏼 Languages I Love Coding In
+- Javascript (currently diving deeper into JS) 
+- Java
+- C
+- Python (_for AI things_)
+- SQL
+- Flutter 
+- _more coming soon_
+
+
 
 <!--
 **AshwathSingh/AshwathSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
