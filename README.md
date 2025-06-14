@@ -20,6 +20,10 @@ I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore 
 - PHP
 - _more coming soon_
 
+## 🖼️ Frameworks I am Familiar With
+- TailwindCSS
+- Bootstrap
+- ReactJS
 <!--
 **AshwathSingh/AshwathSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
