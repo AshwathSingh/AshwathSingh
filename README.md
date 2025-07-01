@@ -19,6 +19,7 @@ I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore 
 - HTML + CSS
 - NodeJS
 - PHP
+- SwiftUI
 - _more coming soon_
 
 ## 🖼️ Frameworks I am Familiar With
