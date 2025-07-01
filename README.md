@@ -27,7 +27,7 @@ I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore 
 - Bootstrap
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathSingh&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathSingh&layout=donut)
 
 <!--
 **AshwathSingh/AshwathSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
