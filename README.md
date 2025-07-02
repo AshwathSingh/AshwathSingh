@@ -1,30 +1,41 @@
 ## 👋🏼 Hey There!
 
-I am Ashwath Singh, a rising junior (a fancy way to say I finished my sophomore year) at Purdue University, West Lafayette, where I major in Computer Science + Electives in Economics and Philosophy! 
+I’m **Ashwath Singh**, a rising junior (aka I just wrapped up sophomore year) at **Purdue University, West Lafayette**. I’m majoring in **Computer Science**, with electives in **Economics** and **Philosophy**—because why not mix logic with a bit of soul-searching?
 
-## 🧠 My Interests
-- AI Workflows
-- Creating products that will help people
-- Content-Creation on [YouTube](https://www.youtube.com/@ashwathsingh)
-- Photography (_especially architecture, landscapes and cars_)
+---
 
-## 🤟🏼 Languages I Love Coding In
-- Javascript (currently diving deeper into JS) 
-- Java
-- C
-- C++
-- Python (_for AI things_)
-- SQL
-- Flutter
-- HTML + CSS
-- NodeJS
-- PHP
-- SwiftUI
-- _more coming soon_
+## 🧠 What I'm Into
 
-## 🖼️ Frameworks I am Familiar With
-- TailwindCSS
-- Bootstrap
+- Building **AI-powered workflows**
+- Creating **products that genuinely help people**
+- Making content on [**YouTube**](https://www.youtube.com/@ashwathsingh)
+- Doing **photography** — especially of architecture, landscapes, and cars
+
+---
+
+## 🤟🏼 Languages I Love to Code In
+
+### 🛠️ Currently Using Actively
+- **JavaScript** _(diving deep into this!)_
+- **Python** _(mostly for AI/ML work)_
+- **SwiftUI** _(currently exploring and building with it)_
+- **HTML + CSS**
+- **SQL**
+
+### 💾 Comfortable/Experienced With
+- **Java**
+- **C / C++**
+- **NodeJS**
+- **Flutter**
+- **PHP**
+
+---
+
+## 🖼️ Frameworks I’m Comfortable With
+
+- **TailwindCSS**  
+- **Bootstrap**
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathSingh&layout=donut)
