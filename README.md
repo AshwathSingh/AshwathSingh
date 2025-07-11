@@ -9,7 +9,7 @@ I’m **Ashwath Singh**, a rising junior (aka I just wrapped up sophomore year) 
 - Building **AI-powered workflows**
 - Creating **products that genuinely help people**
 - Making content on [**YouTube**](https://www.youtube.com/@ashwathsingh)
-- Doing **photography** — especially of architecture, landscapes, and cars
+- **Photography** — especially of architecture, landscapes, and cars
 
 ---
 
