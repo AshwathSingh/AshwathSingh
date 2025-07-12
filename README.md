@@ -2,6 +2,7 @@
 
 I’m **Ashwath Singh**, a rising junior (aka I just wrapped up sophomore year) at **Purdue University, West Lafayette**. I’m majoring in **Computer Science**, with electives in **Economics** and **Philosophy**—because why not mix logic with a bit of soul-searching?
 
+_Currently working on [Budgetly](https://github.com/AshwathSingh/BudgetLy)_
 ---
 
 ## 🧠 What I'm Into
