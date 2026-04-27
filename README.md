@@ -23,6 +23,7 @@ _Currently working on [Budgetly](https://github.com/AshwathSingh/BudgetLy)_
 - **SwiftUI** _(currently exploring and building with it)_
 - **HTML + CSS**
 - **SQL**
+- **Go**
 
 ### 💾 Comfortable/Experienced With
 - **Java**
