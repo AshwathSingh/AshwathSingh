@@ -16,12 +16,13 @@ I’m **Ashwath Singh**, a rising senior, at **Purdue University, West Lafayette
 ## 🤟🏼 Languages I Love to Code In
 
 ### 🛠️ Currently Using Actively
+- **Go** _(diving into this currently as of May!)_
 - **JavaScript** _(diving deep into this!)_
 - **Python** _(mostly for AI/ML work)_
 - **SwiftUI** _(currently exploring and building with it)_
 - **HTML + CSS**
 - **SQL**
-- **Go**
+
 
 ### 💾 Comfortable/Experienced With
 - **Java**
@@ -31,15 +32,6 @@ I’m **Ashwath Singh**, a rising senior, at **Purdue University, West Lafayette
 - **PHP**
 
 ---
-
-## 🖼️ Frameworks I’m Comfortable With
-
-- **TailwindCSS**  
-- **Bootstrap**
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathSingh&layout=donut)
 
 <!--
 **AshwathSingh/AshwathSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
