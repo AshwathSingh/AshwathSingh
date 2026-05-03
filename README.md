@@ -1,6 +1,6 @@
 ## 👋🏼 Hey There!
 
-I’m **Ashwath Singh**, a rising junior (aka I just wrapped up sophomore year) at **Purdue University, West Lafayette**. I’m majoring in **Computer Science**, with electives in **Economics** and **Philosophy**,because why not mix logic with a bit of soul-searching?
+I’m **Ashwath Singh**, a rising senior, at **Purdue University, West Lafayette**. I’m majoring in **Computer Science**, with electives in **Economics** and **Philosophy**,because why not mix logic with a bit of soul-searching?
 
 ---
 
