@@ -47,4 +47,4 @@ Currently interested in:
 * Exploring AI tooling and workflows
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwathSingh&theme=rosepine" alt="mystreak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshwathSingh&theme=rose-pine&hide_border=true&short_numbers=true&hide_total_contributions=true)](https://git.io/streak-stats)
