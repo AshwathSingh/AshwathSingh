@@ -1,49 +1,54 @@
-## 👋🏼 Hey There!
+# 👋 Ashwath Singh
 
-I’m **Ashwath Singh**, a rising senior, at **Purdue University, West Lafayette**. I’m majoring in **Computer Science**, with electives in **Economics** and **Philosophy**,because why not mix logic with a bit of soul-searching?
-
----
-
-## 🧠 What I'm Into
-
-- Building **AI-powered workflows**
-- Creating **products that genuinely help people**
-- Making content on [**YouTube**](https://www.youtube.com/@ashwathsingh)
-- **Photography** — especially of architecture, landscapes, and cars
+🎓 CS @ Purdue University
+💼 Incoming Software Engineering Intern @ Salesforce
+📍 West Lafayette, IN
 
 ---
 
-## 🤟🏼 Languages I Love to Code In
+## 🧠 About
 
-### 🛠️ Currently Using Actively
-- **Go** _(diving into this currently as of May!)_
-- **JavaScript** _(diving deep into this!)_
-- **Python** _(mostly for AI/ML work)_
-- **SwiftUI** _(currently exploring and building with it)_
-- **HTML + CSS**
-- **SQL**
+I'm a CS student exploring different areas of software to figure out what I want to go deep in.
 
+Currently interested in:
 
-### 💾 Comfortable/Experienced With
-- **Java**
-- **C / C++**
-- **NodeJS**
-- **Flutter**
-- **PHP**
+* AI / ML workflows
+* Backend systems (learning Go)
+* Building small, useful tools
 
 ---
 
-<!--
-**AshwathSingh/AshwathSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Tech
 
-Here are some ideas to get you started:
+### Currently Using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Go
+* JavaScript
+* Python
+* SwiftUI
+* HTML + CSS
+* SQL
+
+### Experience With
+
+* Java
+* C / C++
+* Node.js
+* Flutter
+* PHP
+
+---
+
+## 🛠️ What I'm Doing Right Now
+
+* Learning Go by building small CLI tools
+* Exploring AI tooling and workflows
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwathSingh&show_icons=true&hide_border=true" height="150"/>
+</p>
+
+---
