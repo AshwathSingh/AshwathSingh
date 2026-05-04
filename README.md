@@ -1,7 +1,9 @@
 # 👋 Ashwath Singh
 
 🎓 CS @ Purdue University
+
 💼 Incoming Software Engineering Intern @ Salesforce
+
 📍 West Lafayette, IN
 
 ---
@@ -45,10 +47,3 @@ Currently interested in:
 * Exploring AI tooling and workflows
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwathSingh&show_icons=true&hide_border=true" height="150"/>
-</p>
-
----
