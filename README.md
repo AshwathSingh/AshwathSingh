@@ -45,5 +45,5 @@ Currently interested in:
 
 * Learning Go by building small CLI tools
 * Exploring AI tooling and workflows
-* Following [https://codecrafters.io/](codecrafters) creating a shell in Rust
+* Following [codecrafters](https://codecrafters.io/]) creating a shell in Rust
 ---
