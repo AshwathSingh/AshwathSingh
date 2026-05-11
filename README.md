@@ -1,15 +1,3 @@
-# 👋 Ashwath Singh
-
-🎓 CS @ Purdue University
-
-💼 Incoming Software Engineering Intern @ Salesforce
-
-📍 West Lafayette, IN
-
----
-
-## 🧠 About
-
 I'm a CS student exploring different areas of software to figure out what I want to go deep in.
 
 Currently interested in:
